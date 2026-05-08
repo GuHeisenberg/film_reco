@@ -132,7 +132,7 @@ export default function App() {
         </View>
 
         <Pressable style={styles.mainButton} onPress={recommendMovie}>
-          <Text style={styles.mainButtonText}>Neue Empfehlung holen</Text>
+          <Text style={styles.mainButtonText}>Neue Empfehlung zeigen</Text>
         </Pressable>
 
         <Text style={styles.footer}>
